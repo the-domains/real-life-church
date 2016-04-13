@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Real Life Church.
-datePublished: '2016-04-13T18:56:47.684Z'
-dateModified: '2016-04-13T18:55:56.936Z'
+datePublished: '2016-04-13T19:59:30.166Z'
+dateModified: '2016-04-13T19:46:19.779Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-real-life-church.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-real-life-church.md
-published: true
 url: real-life-church/index.html
 _type: Article
 
