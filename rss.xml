@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Real Life Church]]></title>
         <description><![CDATA[Real Life Church]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/real-life-church/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 18:57:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 19:40:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/real-life-church/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WEEKLY SERVICES]]></title>
+            <description><![CDATA[<article><h1>WEEKLY SERVICES</h1><p>We invite you to any of our two identical services at 9:00 a.m or 10:45 a.m. each Sunday morning.</p></article>]]></description>
+            <link>https://thegrid.ai/real-life-church/7a13eabc-3359-4414-ab13-ed929747d890/index.html</link>
+            <guid isPermaLink="false">7a13eabc-3359-4414-ab13-ed929747d890</guid>
+            <pubDate>Wed, 13 Apr 2016 19:40:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Real Life Church.</p>]]></description>
-            <link>undefinedreal-life-church/index.html</link>
+            <link>https://thegrid.ai/real-life-church/real-life-church/index.html</link>
             <guid isPermaLink="false">190e9f59-6a11-4f08-b3d8-fcad5bd3f9ef</guid>
             <pubDate>Wed, 13 Apr 2016 18:56:47 GMT</pubDate>
         </item>
