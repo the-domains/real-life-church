@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Real Life Church.
-datePublished: '2016-04-13T19:59:30.166Z'
-dateModified: '2016-04-13T19:46:19.779Z'
-title: ''
+datePublished: '2016-04-14T17:17:13.275Z'
+dateModified: '2016-04-14T17:07:29.379Z'
+title: Love God. Love People. Serve the World.
 author: []
 sourcePath: _posts/2016-04-13-real-life-church.md
 published: true
@@ -22,7 +22,6 @@ url: real-life-church/index.html
 _type: Article
 
 ---
-Real Life Church.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e144df-65a2-4f97-97a4-9199f36aa183.jpg)
 
-Love God. Love People. Serve the World.
+# Love God. Love People. Serve the World.
