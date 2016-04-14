@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Real Life Church.
-datePublished: '2016-04-14T17:17:13.275Z'
-dateModified: '2016-04-14T17:07:29.379Z'
+description: ''
+datePublished: '2016-04-14T17:20:24.816Z'
+dateModified: '2016-04-14T17:20:19.279Z'
 title: Love God. Love People. Serve the World.
 author: []
 sourcePath: _posts/2016-04-13-real-life-church.md
