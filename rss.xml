@@ -4,7 +4,7 @@
         <description><![CDATA[Real Life Church]]></description>
         <link>https://thegrid.ai/reallifechurch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 17:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 17:17:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reallifechurch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 13 Apr 2016 19:59:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Weekly Services]]></title>
+            <description><![CDATA[<article><h1>Weekly Services</h1><h2></h2><p>Please join us for either of our identical services at 9:00 or 10:45.</p></article>]]></description>
+            <link>https://thegrid.ai/reallifechurch/7a13eabc-3359-4414-ab13-ed929747d890/index.html</link>
+            <guid isPermaLink="false">7a13eabc-3359-4414-ab13-ed929747d890</guid>
+            <pubDate>Thu, 14 Apr 2016 17:17:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Growth Groups]]></title>
             <description><![CDATA[<h1>Growth Groups</h1>]]></description>
             <link>https://thegrid.ai/reallifechurch/7d1fe20f-c92b-4d1e-a86f-9a0587a4cca5/index.html</link>
             <guid isPermaLink="false">7d1fe20f-c92b-4d1e-a86f-9a0587a4cca5</guid>
             <pubDate>Thu, 14 Apr 2016 16:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WEEKLY SERVICES]]></title>
-            <description><![CDATA[<article><h1>WEEKLY SERVICES</h1><p>We invite you to any of our two identical services at 9:00 a.m or 10:45 a.m. each Sunday morning.</p></article>]]></description>
-            <link>https://thegrid.ai/reallifechurch/7a13eabc-3359-4414-ab13-ed929747d890/index.html</link>
-            <guid isPermaLink="false">7a13eabc-3359-4414-ab13-ed929747d890</guid>
-            <pubDate>Wed, 13 Apr 2016 19:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
