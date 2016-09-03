@@ -1,20 +1,4 @@
-name: Real Life Church
-favicon: null
-layout_spectrum: 0.27758
 typography_spectrum: 0.39196
-title: Real Life Church
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#b2b3b7'
@@ -26,4 +10,21 @@ color:
   lightness: 0.4900239505805075
   saturation: 0.25389167852699757
   rhythmicContrast: 0.7893882426433265
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.27758
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Real Life Church
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Real Life Church
+description: Love God. Love People. Serve the World
 purpose: []
